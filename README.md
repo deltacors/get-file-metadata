@@ -1,5 +1,5 @@
 # Get files metadata
-This Python script to retrieves the metadata of a PDF file.
+This Python script retrieves the metadata of a PDF file.
 
 ### What do I need?
 You can run this script anywhere, you just need:
@@ -22,4 +22,4 @@ Navigate to the folder where the file get-file-metadata.py has been downloaded o
 
 <pre><code>python3 get-file-metadata.py -F path/to/file.pdf</code></pre>
 
-Use it responsably.
+Use it responsibly.
